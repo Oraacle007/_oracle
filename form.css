@@ -1,0 +1,40 @@
+body{
+    font-size: 100%;
+}
+
+ h1{   color: white;
+    text-align: center;
+    border: 10px solid white;
+    outline: thick solid #fb6fb7;
+    text-decoration: underline;
+    letter-spacing: normal;
+    text-shadow: 0 0 5px #fb6fb7 ;
+    font-family: Georgia, serif;
+}
+
+form{
+    color: grey;
+    text-align: left;
+    font-family: verdana, sans-serif;
+}
+p.upper{
+    text-transform: uppercase;
+    font-family: trirong, serif;
+    font-size: 1.5em;
+    text-shadow: 1px 0.5px#fb6fb7;
+    
+}
+p.lower{
+    text-transform: lowercase;
+    font-family: sofia, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 1.875;
+
+}
+p.capitalize{
+    text-transform: capitalize;
+    font-family: "audiowide", sans-serif;
+
+}
